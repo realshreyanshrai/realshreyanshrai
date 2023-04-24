@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Alex</h1>
-<h3 align="center">I am a developer, Full-Stack enthusiast, Vue aficionado, Azure ninja, Microservice builder.</h3>
+<h1 align="center">Hi 👋, I'm Shreyansh</h1>
+<h3 align="center">I am a new developer, And the owner of Techrozo.</h3>
 </br>
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
